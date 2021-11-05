@@ -1,0 +1,49 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+#svn
+.svn
+.settings/
+out/
+target/
+/build/
+
+#proguard
+proguard_logs/
+proguard/
+
+#android studio
+BUILD_NUMBER
+.gradle
+.gradle/
+/local.properties
++!gradle-wrapper.jar
+/.idea
+*.iml
+*.orig
+/**/wrapper/
+
+# generated files
+bin/
+gen/
+
+/build
+/gradle
+local.properties
